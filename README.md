@@ -2,6 +2,7 @@
 A project based on Chloe Wang's Deep Q space invaders code, presented in a slightly different format. 
 
 Check out the original code: https://github.com/nicknochnack/KerasRL-OpenAI-Atari-SpaceInvadersv0
+It has a jupyter notebook giving a much more detailed walkthrough of the process, the code presented here is meant to run directly on terminal without much tweaking.
 
 ## Requirements
 You'll need tensorflow, numpy, Keras-RL, and gym, plus their dependencies. This was tested with gym v0.21, 
